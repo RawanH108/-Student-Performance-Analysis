@@ -7,7 +7,7 @@ We used real data to analyze the impact of gender, parental education, and test 
 - Python
 - Pandas
 - Seaborn & Matplotlib
-- Google Colab
+- Jupyter/Google Colab
 
 ## Key Insights:
 - Female students scored higher in reading and writing.
